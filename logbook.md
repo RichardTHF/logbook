@@ -24,5 +24,5 @@ else{
 }
 ```
 ### Weekly Conclusion 
-*Discuss the skills and techniques that you have learnt throughout the week, and what benefit they will have to your assessment and future work. 
+*Discuss the skills and techniques that you have learnt throughout the week, and what benefit they will have to your assessment and future work.*
 
