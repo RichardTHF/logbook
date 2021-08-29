@@ -11,7 +11,7 @@
 *This is where you can write a brief description explaining what you have done in the class today, you should keep this brief and ensure that it is concice.*
 
 ### Evidence 
-*Here you can include pictures of what you have done*
+*Here you can include pictures of what you have done, you must also include any code that you have done, especially if you have been working on Arduinos or Raspberry Pis*
 
 ```c 
 int code = 1; //If there is code this week, you must include evidence of it. 
