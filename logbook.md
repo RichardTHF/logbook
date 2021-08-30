@@ -3,8 +3,8 @@
 
 # Logbook - Computer Systems  
   
-### Name:   
-### BCU ID:   
+### Name: Richard Davies  
+### BCU ID: S13188948
 ### WTU ID:   
   
 ## Week 1 - Introduction and Setup  
